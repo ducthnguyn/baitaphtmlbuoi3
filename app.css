@@ -1,0 +1,15 @@
+.table{
+    width: 70%;
+    margin: 20px auto;
+    border-collapse: collapse;
+    font-family: 'Times New Roman', sans-serif;
+}
+td, th{
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: center;
+}
+th{
+    background-color: #fff;
+
+}
